@@ -39,3 +39,10 @@ Instructions will be added as the pipeline is built.
 ## Notes and Limitations
 
 The stock universe is frozen on a chosen date. Using current large-cap constituents to study older periods can introduce survivorship bias.
+
+## Setup
+
+Create and activate the project environment, then install dependencies:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
