@@ -1,0 +1,6 @@
+pandas
+yfinance
+SQLAlchemy
+fredapi
+python-dotenv
+pytest
